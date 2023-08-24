@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
@@ -10,7 +10,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -21,18 +21,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918348225320'] //ur owner number
-global.ownernomer = "918348225320" //ur owner number2
-global.ownername = "🦄Dream Guy Deepak" //ur owner name
-global.ytname = "YT: Deepak" //ur yt chanel name
-global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
-global.location = "India, West Bengal, Darjeeling" //ur location
+global.owner = ['50663911111'] //ur owner number
+global.ownernomer = "85255630022" //ur owner number2
+global.ownername = "Obbizzy" //ur owner name
+global.ytname = "YT: Obbizz" //ur yt chanel name
+global.socialm = "GitHub: Obbiz" //ur github or insta name
+global.location = "Nigeria, Kano, Yankaba" //ur location
 
 //new
 global.botname = "Zenitsu-Bot"
-global.ownernumber = '918348225320'
-global.ownername = '🦄Dream Guy Deepak'
-global.ownerNumber = ["918348225320@s.whatsapp.net"]
+global.ownernumber = '50663911111'
+global.ownername = 'Obbizzy'
+global.ownerNumber = ["50663911111@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@dreamguydeepak"
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1"
@@ -40,8 +40,8 @@ global.themeemoji = '🦄'
 global.wm = "Deepak Bot Inc."
 global.botscript = 'https://github.com/DGDEEPAK/Zenitsu-Bot4' //script link
 global.packname = "Zenitsu-Bot"
-global.author = "🦄Dream Guy Deepak"
-global.creator = "918348225320@s.whatsapp.net"
+global.author = "Dream Guy Deepak"
+global.creator = "50663911111@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
